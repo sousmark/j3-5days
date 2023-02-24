@@ -9,3 +9,8 @@ La fonction createGraph prend en entrée un nom de fichier qui contient les donn
 La fonction dfs est la fonction principale qui implémente l'algorithme DFS. Il commence par visiter un sommet de départ et explore récursivement tous ses voisins, en ajoutant le coût, la distance et l'efficacité de chaque bord traversé jusqu'à ce que tous les sommets du graphe soient visités. Il conserve ensuite les chemins minimums pour chaque critère de recherche (coût, distance et efficacité) ainsi que leur coût total respectif. Les résultats sont stockés dans les vecteurs min_path_cost, min_path_dist et min_path_efficiency, respectivement, avec le coût total stocké dans min_cost, min_dist et min_efficiency.
 
 Enfin, le code demande à l'utilisateur de saisir le nom du fichier csv qui contient les données du graphe, commence le timer et utilise la fonction dfs pour résoudre le problème de parcours de graphe. Le résultat est affiché à la fin avec le temps d'exécution total du programme.
+
+
+Pour lancer le programme :
+g++ j3-5days.cpp
+./a.out
