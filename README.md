@@ -14,3 +14,9 @@ Enfin, le code demande à l'utilisateur de saisir le nom du fichier csv qui cont
 Pour lancer le programme :
 g++ j3-5days.cpp
 ./a.out
+
+RESULTAT EXECUTION Debugg1.CSV
+<img width="883" alt="image" src="https://user-images.githubusercontent.com/46540351/221301938-279fff22-9d47-4b92-9c77-f5b0fd4f9232.png">
+
+RESULTAT EXECUTION Debugg2.CSV
+<img width="884" alt="image" src="https://user-images.githubusercontent.com/46540351/221302209-ae717528-2fe1-49eb-a622-7e2cd48ad413.png">
